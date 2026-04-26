@@ -1,0 +1,8 @@
+Library Search Results
+Search Term: To*
+============================================================
+ID       Title                  ISBN            Author               Copies   Available  Price   
+------------------------------------------------------------
+EF56     To Kill Bird           9780061935466   Harper Lee           2        2          £11.50   
+------------------------------------------------------------
+Total: 1 books found.
